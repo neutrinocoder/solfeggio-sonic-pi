@@ -1,4 +1,4 @@
-use_bpm 60
+use_bpm 120
 live_loop :melody do
   
   use_synth :piano
